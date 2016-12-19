@@ -1,0 +1,1 @@
+C:\github\mssqltobigquery\SQLToBigQuery\SQLToBigQuery\bin\Debug\SQLToBigQuery.exe.config
